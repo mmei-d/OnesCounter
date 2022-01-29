@@ -1,5 +1,3 @@
-/*--- This code is my own work, it was written without consulting a tutor or code written by other students - Mei Deng ---*/
-
 /*--- Switches and NOT-gates ---*/
 Switch aa A '0' ZERO;
 Not aa A NOTA;
